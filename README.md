@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="pit-wall/img/piloto.jpg" alt="Carro de Fórmula 1 no circuito de Interlagos" width="100%">
+  <img src=".img/piloto.jpg" alt="Carro de Fórmula 1 no circuito de Interlagos" width="100%">
 </p>
 
 ---
